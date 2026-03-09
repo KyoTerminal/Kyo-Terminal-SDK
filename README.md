@@ -9,7 +9,7 @@
 <p align="center">
 <b>Kyo Terminal — Launch autonomous AI agents from the command line.</b>
 </p>
-
+ 
 ---
 
 ## Overview
