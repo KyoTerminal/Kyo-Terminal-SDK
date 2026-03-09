@@ -11,7 +11,7 @@
 </p>
  
 ---
-
+ 
 ## Overview
 
 **Kyo Terminal** is a terminal-native AI agent framework powered by **OpenClaw AI CLI** and **Claude Code**.
